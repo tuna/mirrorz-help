@@ -170,6 +170,7 @@ declare -a TRANSPILE_LIST=(
     "2023-03-10-kodi.md"
     "2023-03-10-manjaro.md"
     "2023-03-19-nixpkgs.git.md"
+    "2023-03-30-raspberrypi.md"
 )
 
 for md in "${TRANSPILE_LIST[@]}"; do
