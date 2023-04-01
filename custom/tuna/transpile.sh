@@ -64,7 +64,7 @@ declare -a TRANSPILE_LIST=(
     "1970-01-01-crates.io-index.git.md"
     #"1970-01-01-cygwin.md"
     "1970-01-01-debian.md"
-    #"1970-01-01-docker-ce.md"
+    "1970-01-01-docker-ce.md"
     #"1970-01-01-elpa.md"
     "1970-01-01-elrepo.md"
     "1970-01-01-epel.md"
