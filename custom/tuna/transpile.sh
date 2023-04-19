@@ -159,7 +159,7 @@ declare -a TRANSPILE_LIST=(
     #"2022-09-22-pkgsrc.md"
     "2022-11-14-kali.md"
     "2023-01-23-openbsd.md"
-    #"2023-01-30-netbsd.md"
+    "2023-01-30-netbsd.md"
     "2023-02-08-crates.io-index.md"
     "2023-03-10-nix-channels.md"
     "2023-03-10-armbian.md"
