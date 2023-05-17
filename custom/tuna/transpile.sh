@@ -171,6 +171,7 @@ declare -a TRANSPILE_LIST=(
     "2023-03-10-manjaro.md"
     "2023-03-19-nixpkgs.git.md"
     "2023-03-30-raspberrypi.md"
+    "2023-05-17-centos-stream.md"
 )
 
 for md in "${TRANSPILE_LIST[@]}"; do
